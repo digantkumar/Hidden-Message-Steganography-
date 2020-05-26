@@ -15,4 +15,4 @@ def extract(text):
     return hidden_message
 string = "Yesterday  I  saw  an  aardvark  while  walking  my  pet  tortoise,  Frank.   What a  sight  this  was! Aarvarks  are  nocturnal  " \
          "animals appearing  in  daylight  with caution.  Make sure to bring kippers when you visit."
-print(extract(string))
+print(extract(string))                       ##### Output - attack #####
